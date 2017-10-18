@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Updating Intel 750 SSD Firmware on system with Pascal GPU
+title: Deep Learning Efficiency
 published: false
 ---
